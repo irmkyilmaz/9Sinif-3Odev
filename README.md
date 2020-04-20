@@ -32,8 +32,25 @@ Yukarıdaki aldığım verilerin Google Sheet'deki çizimini [burada](https://do
 Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu şekilde çıktı:
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
+| Frame | Zaman(s) | Konum(m) |
+|-------|----------|----------|
+| 7     | 0        | 0        |
+| 13    | 6/60     | 0.175    |
+| 14    | 7/60     | 0.200    |
+| 18    | 11/60    | 0.295    |
+| 21    | 14/60    | 0.360    |
+| 23    | 16/60    | 0.400    |
+| 25    | 18/60    | 0.440    |
+| 28    | 21/60    | 0.490    |
+| 33    | 26/60    | 0.550    |
+| 35    | 28/60    | 0.580    |
+| 38    | 31/60    | 0.610    |
+| 45    | 38/60    | 0.650    |
+| 48    | 41/60    | 0.668    |
+| 49    | 42/60    | 0.670    |
+| 53    | 46/60    | 0.675    |
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1UqVx8A22NBJi5JrRWjnbMo5SSZmYb6e58yjP4DM6ACw/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
 
